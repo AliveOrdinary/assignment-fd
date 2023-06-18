@@ -36,12 +36,6 @@ This web application allows users to fetch and display user data from an API in 
 - The navbar is styled with a dark background colour and a "Get Users" button.
 - The user data is displayed in a grid layout with styled cards showing the user's avatar, name, and email.
 
-## Clean Code and Best Practices
-
-- The code follows best practices for React development, including using functional components and hooks.
-- Variable and function names are meaningful and follow the camelCase convention.
-- Code is organized into separate components for better modularity and reusability.
-- Comments are provided where necessary to explain the code logic and functionality.
 
 ## Challenges Faced
 
